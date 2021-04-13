@@ -4,7 +4,7 @@ import platform
 from models.experimental import *
 from utils.torch_utils import *
 from utils.datasets import *
-from utils.utils import *
+from utils.useful import *
 from models.LPRNet import LPRNet
 
 warnings.filterwarnings("ignore")
