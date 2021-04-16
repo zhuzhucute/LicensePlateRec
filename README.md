@@ -1,7 +1,22 @@
 <h1 align="center">LicensePlateRec</h1>
 
-[![GitHub](https://img.shields.io/github/license/laugh12321/LicensePlateRec?logo=Github)](https://github.com/laugh12321/LicensePlateRec/blob/master/LICENSE) [![GitHub top language](https://img.shields.io/github/languages/top/laugh12321/LicensePlateRec?logo=github)](https://github.com/laugh12321/LicensePlateRec) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/laugh12321/LicensePlateRec?logo=github)](https://github.com/laugh12321/LicensePlateRec) [![GitHub issues](https://img.shields.io/github/issues/laugh12321/LicensePlateRec?logo=github)](https://github.com/laugh12321/LicensePlateRec/issues)
-
+<p align="center">
+    <a href="https://github.com/laugh12321/LicensePlateRec/blob/master/LICENSE">
+        <img alt="GitHub" src="https://img.shields.io/github/license/laugh12321/LicensePlateRec?logo=Github">
+    </a>
+    <a href="https://github.com/laugh12321/LicensePlateRec">
+        <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/laugh12321/LicensePlateRec?logo=github">
+    </a>
+    <a href="https://github.com/laugh12321/LicensePlateRec">
+        <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/laugh12321/LicensePlateRec?logo=github">
+    </a>
+    <a href="https://github.com/laugh12321/LicensePlateRec/issues">
+        <img alt="GitHub issues" src="https://img.shields.io/github/issues/laugh12321/LicensePlateRec?logo=github">
+    </a>
+    <a href="https://github.com/laugh12321/LicensePlateRec/releases">
+        <img alt="GitHub downloads" src="https://img.shields.io/github/downloads/laugh12321/LicensePlateRec/total?logo=github">
+    </a>
+</p>
 
 <p align="center">
     <em>Simple license plate recognition software. Inspired by <a href="https://github.com/Buster-maker/plate">Buster-maker/plate</a>, but more features.</em>
