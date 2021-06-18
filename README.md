@@ -72,4 +72,4 @@ MIT.
 
 ## 📃Reference
 
-- [Minimalistic-Flat-Modern-GUI-Template](https://github.com/laugh12321/Minimalistic-Flat-Modern-GUI-Template)s
+- [Minimalistic-Flat-Modern-GUI-Template](https://github.com/anjalp/Minimalistic-Flat-Modern-GUI-Template)
